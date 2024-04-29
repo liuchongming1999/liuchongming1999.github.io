@@ -2,9 +2,9 @@
 layout: post
 title: Investigating the Computational Advantages of Dendritic Integration Rules in Artificial Neural Networks for Enhanced Task Performance
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/bgimage.jpg
+thumbnail-img: /assets/img/bgimage.jpg
+share-img: /assets/img/bgimage.jpg
 tags: [books, test]
 author: Sharon Smith and Barry Simpson
 ---
